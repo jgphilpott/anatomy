@@ -8,26 +8,26 @@ A 3D printable model of a humanoid robot.
 
 # Anatomy
 
-## Arms
+### Arms
 
-## Head
+### Head
 
-## Legs
+### Legs
 
-## Torso
+### Torso
 
 # Hardware
 
-## Computers
+### Computers
 
-## HAT's
+### HAT's
 
-## Motors
+### Motors
 
-## Printers
+### Printers
 
 # Software
 
-## Cura
+### [Cura](https://github.com/Ultimaker/Cura) - Slicing Software
 
-## Polymaker
+### [Polymaker](https://github.com/jgphilpott/polymaker/tree/master/app/things/humanoid) - Design Software
