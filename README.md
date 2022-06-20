@@ -48,6 +48,6 @@ A 3D printable model of a humanoid robot.
 
 # Software
 
- - [Polymaker](https://github.com/jgphilpott/polymaker) - Design Software
+ - [Polymorph](https://github.com/jgphilpott/polymorph) - Design Software
  - [Cura](https://github.com/Ultimaker/Cura) - Slicing Software
  - [Agility](https://github.com/jgphilpott/agility) - Motor Functions
